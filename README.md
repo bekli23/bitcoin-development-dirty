@@ -11,7 +11,7 @@ Bob has his private key.<br>
 Eve sends a message to Alice, together with a "confirmation" calculated using Bob's public key.<br>
 Alice receives the message and Bob's public key, calculates confirmation == signature => Message was sent by Bob <br>
 How is it different from Bob sending his message and a signature calculated using his private key?<br>
-Problem 1: You have a bug in your code when you transferred it from the example. This line<br>
+Problem 1: I have  code when you transferred it from the example. This line<br>
 hash = message**65537 % 2**8  # incorrect<br>
 should use multiplication instead of the power function<br>
 
