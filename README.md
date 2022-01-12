@@ -1,4 +1,5 @@
 # Bitcoin core mod dirty
+SOON UPDATE 
 👋 Hi, I’m @bekli23<br>
 👀 I’m interested in ... codes:) <br>
 🌱 I’m currently learning ... bitcoin core dirty  <br>
