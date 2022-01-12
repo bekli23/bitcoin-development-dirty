@@ -4,7 +4,8 @@ SOON UPDATE  <br>
 
 👀 Hi, I'm a normal person and for about 3 years I've learned a lot about cryptography and cryptocurrencies. <br>
 👀Normally you will say that it is not possible for me to do this project.<br>
-👀In the first part I will make a major change in bitcoin core ,basically I want to stop signing transactions <strong>only</strong> with private key.<br>
+👀In the first part I will make a major change in bitcoin core ,basically I want to stop signing transactions <p style="color:red">only</p>with private key.
+<br>
 ------------------------------------------------------------------------------------------------------------------------------------------------
      So an example of what I will do.
 Bob has his private key.<br>
