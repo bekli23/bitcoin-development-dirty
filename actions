@@ -1,0 +1,6 @@
+built 2021-08-24T18:04:58Z
+/src/wallet/scriptpubkeyman.cpp
+line : 235                keyFail = true; change to  keyPass = true; 
+I built the source code but the problem 
+ FlushStateToDisk: write coins cache to disk (0 coins, 7219kB) completed (0.01s)
+ 
