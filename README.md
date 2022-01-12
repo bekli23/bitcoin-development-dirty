@@ -20,6 +20,6 @@ should use multiplication instead of the power function<br>
 hash = message*65537 % 2**8  # correct<br>
 <br>
 
-I will switch to the regular case of signing with a private key and checking with a public key to make sure the algorithm works and then we'll run your attack again.<br>
+I will switch to the regular case of signing with a private key and checking with a public key to make sure the algorithm works.<br>
 
 🌱 Attention !!!!!!! this is an experimental project so don't put your real wallet with money !!!
