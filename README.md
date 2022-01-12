@@ -18,7 +18,7 @@ hash = message**65537 % 2**8  # incorrect<br>
 should use multiplication instead of the power function<br>
 
 hash = message*65537 % 2**8  # correct<br>
-This bug was on you, but from here on out nothing is your fault, since the source you linked is faulty itself. So let's go ahead and fix your code bit by bit.<br>
+<br>
 
 I will switch to the regular case of signing with a private key and checking with a public key to make sure the algorithm works and then we'll run your attack again.<br>
 
