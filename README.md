@@ -8,6 +8,8 @@ create tx (core stay on , not shutdown) ✅<br>
 unlock by change hash hex master key ✅(contact me for info) <br>
 dump private key keymeta!  ✅successful <br>
 dump private key ckey ⏳ *unsuccessful(work progress) <br>
+Fixed private key import Uncompressed\Compressed ✅<br>
+dump private key which I import✅<br>
 
 👀 Hi, I'm a normal person and for about 3 years I've learned a lot about cryptography and cryptocurrencies. <br>
 👀Normally you will say that it is not possible for me to do this project.<br>
