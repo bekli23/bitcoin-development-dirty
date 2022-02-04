@@ -1,13 +1,13 @@
 # Bitcoin core mod dirty
 SOON UPDATE  <br>
 <img src="https://github.com/bekli23/v0.17.0.1-g-01xploid-development-dirty/blob/main/bitoins-to-bits-2.jpg?raw=true" alt="Get all the lost bitcoin :)">
-*PROGRESS UPDATE
-Generate new address *
-import privatekey must start 5...exemple (5KK6mwkX27SgBvhN1pdC1z2dstrJ4vn5UgffYoexC1ySmAV1fMa)*
-create tx (core stay on , not shutdown)
-unlock by change hash hex master key (contact me for info)
-dump private key keymeta!  ✅successful
-dump private key ckey ⏳ *unsuccessful(work progress)
+*🏆PROGRESS UPDATE 🏆<br>
+Generate new address✅ * <br>
+import privatekey must start 5...exemple (5KK6mwkX27SgBvhN1pdC1z2dstrJ4vn5UgffYoexC1ySmAV1fMa)✅* <br>
+create tx (core stay on , not shutdown) ✅<br>
+unlock by change hash hex master key ✅(contact me for info) <br>
+dump private key keymeta!  ✅successful <br>
+dump private key ckey ⏳ *unsuccessful(work progress) <br>
 
 👀 Hi, I'm a normal person and for about 3 years I've learned a lot about cryptography and cryptocurrencies. <br>
 👀Normally you will say that it is not possible for me to do this project.<br>
